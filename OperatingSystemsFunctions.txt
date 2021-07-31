@@ -1,1 +1,3 @@
 XBOX App - is a feature in windows 10 that enables you to work with any software applications associated with this app specially with xbox games. It also allows the user to record specific moment(s) either it is a game or an application you use. This app feature in windows 10 also has the ability to conenct you with other xbox account users.
+
+Another feature of Windows 10 is the quick assist app wherein you can remote any windows 10 users by sending them your Id. In that way users that needs assistance will allow you to remote their devices. You can select a specific area the support user will remote or you can enable full access on it.
