@@ -1,0 +1,1 @@
+XBOX App - is a feature in windows 10 that enables you to work with any software applications associated with this app specially with xbox games. It also allows the user to record specific moment(s) either it is a game or an application you use. This app feature in windows 10 also has the ability to conenct you with other xbox account users.
